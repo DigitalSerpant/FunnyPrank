@@ -1,0 +1,15 @@
+h1{
+    color:rgb(255, 0, 0);
+    font-size: 102px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url("https://media.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif");
+}
+h2{
+    margin: auto;
+    color:rgb(255, 0, 0);
+    font-size: 67px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
